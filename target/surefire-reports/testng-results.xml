@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-06-03T22:18:57 IST" name="Surefire suite" finished-at="2025-06-03T22:20:08 IST" duration-ms="71408">
+    <groups>
+    </groups>
+    <test started-at="2025-06-03T22:18:57 IST" name="Surefire test" finished-at="2025-06-03T22:20:08 IST" duration-ms="71408">
+      <class name="TestCase.CreateNewLeadFromCRM">
+        <test-method is-config="true" signature="setUp(java.lang.String,java.lang.reflect.Method)[pri:0, instance:TestCase.CreateNewLeadFromCRM@3012646b]" started-at="2025-06-03T22:18:58 IST" name="setUp" finished-at="2025-06-03T22:19:03 IST" duration-ms="4061" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[public void TestCase.CreateNewLeadFromCRM.leadAssignementToInfinity(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String) throws java.lang.InterruptedException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="leadAssignementToInfinity(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:TestCase.CreateNewLeadFromCRM@3012646b]" started-at="2025-06-03T22:19:03 IST" name="leadAssignementToInfinity" description="Lead Assignment " data-provider="infinitycredencialtestData" finished-at="2025-06-03T22:20:08 IST" duration-ms="64794" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[ankit.aggarwal@pnbhousing.com.partial2]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Pnb@2025]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Manish]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Kumar]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[singh]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[Manish.Kumar12@gmail.com]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[9197000000]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[Housing Loan]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[Home Extension Loan-Non Individual]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[Top Up- BT]]>
+              </value>
+            </param>
+            <param index="10">
+              <value>
+                <![CDATA[14000000]]>
+              </value>
+            </param>
+            <param index="11">
+              <value>
+                <![CDATA[Website]]>
+              </value>
+            </param>
+            <param index="12">
+              <value>
+                <![CDATA[Agra]]>
+              </value>
+            </param>
+            <param index="13">
+              <value>
+                <![CDATA[akansha.wellington@phfl.com.partial2]]>
+              </value>
+            </param>
+            <param index="14">
+              <value>
+                <![CDATA[TestPass@123]]>
+              </value>
+            </param>
+            <param index="15">
+              <value>
+                <![CDATA[Prime]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- leadAssignementToInfinity -->
+        <test-method is-config="true" signature="tearDown(org.testng.ITestResult)[pri:0, instance:TestCase.CreateNewLeadFromCRM@3012646b]" started-at="2025-06-03T22:20:08 IST" name="tearDown" finished-at="2025-06-03T22:20:08 IST" duration-ms="743" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=leadAssignementToInfinity status=SUCCESS method=CreateNewLeadFromCRM.leadAssignementToInfinity(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:TestCase.CreateNewLeadFromCRM@3012646b] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- TestCase.CreateNewLeadFromCRM -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
